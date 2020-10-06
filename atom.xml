@@ -3,14 +3,14 @@
   <title>halocherry</title>
   
   
-  <link href="https://halocherry.github.io/halocherry.github.io/atom.xml" rel="self"/>
+  <link href="https://example.com/atom.xml" rel="self"/>
   
-  <link href="https://halocherry.github.io/halocherry.github.io/"/>
+  <link href="https://example.com/"/>
   <updated>2020-10-05T08:30:06.020Z</updated>
-  <id>https://halocherry.github.io/halocherry.github.io/</id>
+  <id>https://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Jay</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://halocherry.github.io/halocherry.github.io/2020/10/05/hello-world/"/>
-    <id>https://halocherry.github.io/halocherry.github.io/2020/10/05/hello-world/</id>
+    <link href="https://example.com/2020/10/05/hello-world/"/>
+    <id>https://example.com/2020/10/05/hello-world/</id>
     <published>2020-10-05T08:30:06.019Z</published>
     <updated>2020-10-05T08:30:06.020Z</updated>
     
