@@ -45,6 +45,13 @@
   </url>
 
   
+  <url>
+    <loc>https://example.com/tags/MarkDown/</loc>
+    <lastmod>2020-10-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
 </urlset>
