@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://example.com/2020/10/18/4/</loc>
+    
+    <lastmod>2020-10-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://example.com/2020/10/09/3/</loc>
     
     <lastmod>2020-10-26</lastmod>
@@ -16,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/2020/10/18/4/</loc>
+    <loc>https://example.com/2020/10/07/2/</loc>
     
     <lastmod>2020-10-26</lastmod>
     
@@ -25,19 +32,12 @@
   <url>
     <loc>https://example.com/2020/10/06/firstPassage/</loc>
     
-    <lastmod>2020-10-09</lastmod>
+    <lastmod>2020-10-26</lastmod>
     
   </url>
   
   <url>
     <loc>https://example.com/guestbook/index.html</loc>
-    
-    <lastmod>2020-10-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/10/07/2/</loc>
     
     <lastmod>2020-10-08</lastmod>
     
