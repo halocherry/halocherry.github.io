@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://example.com/2020/10/20/5/</loc>
+    
+    <lastmod>2020-10-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://example.com/2020/10/09/3/</loc>
+    
+    <lastmod>2020-10-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://example.com/2020/10/18/4/</loc>
     
     <lastmod>2020-10-29</lastmod>
@@ -11,21 +25,7 @@
   <url>
     <loc>https://example.com/2020/10/27/6/</loc>
     
-    <lastmod>2020-10-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/10/20/5/</loc>
-    
-    <lastmod>2020-10-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/10/09/3/</loc>
-    
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-29</lastmod>
     
   </url>
   
