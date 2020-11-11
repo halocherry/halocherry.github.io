@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/2020/11/03/8/</loc>
+    <loc>https://example.com/2020/11/06/10/</loc>
     
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-11</lastmod>
     
   </url>
   
   <url>
-    <loc>https://example.com/2020/11/06/10/</loc>
+    <loc>https://example.com/2020/11/10/11/</loc>
     
-    <lastmod>2020-11-07</lastmod>
+    <lastmod>2020-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://example.com/2020/11/03/8/</loc>
+    
+    <lastmod>2020-11-10</lastmod>
     
   </url>
   
@@ -95,7 +102,7 @@
 
   
   <url>
-    <loc>https://example.com/tags/MarkDown/</loc>
+    <loc>https://example.com/tags/python/</loc>
     <lastmod>2020-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -109,14 +116,14 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/python/</loc>
+    <loc>https://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2020-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>https://example.com/tags/MarkDown/</loc>
     <lastmod>2020-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
