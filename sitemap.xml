@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/2020/11/14/12/</loc>
+    <loc>https://example.com/2020/11/03/8/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://example.com/2020/11/10/11/</loc>
+    <loc>https://example.com/2020/11/02/7/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
@@ -23,7 +23,14 @@
   </url>
   
   <url>
-    <loc>https://example.com/2020/11/03/8/</loc>
+    <loc>https://example.com/2020/11/10/11/</loc>
+    
+    <lastmod>2020-11-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://example.com/2020/11/14/12/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
@@ -40,13 +47,6 @@
     <loc>https://example.com/2020/10/09/3/</loc>
     
     <lastmod>2020-11-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/11/02/7/</loc>
-    
-    <lastmod>2020-11-03</lastmod>
     
   </url>
   
