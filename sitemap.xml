@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://example.com/2020/10/06/firstPassage/</loc>
+    
+    <lastmod>2020-11-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://example.com/2020/11/14/12/</loc>
+    
+    <lastmod>2020-11-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://example.com/2020/11/10/11/</loc>
+    
+    <lastmod>2020-11-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://example.com/2020/11/06/10/</loc>
+    
+    <lastmod>2020-11-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://example.com/2020/11/03/8/</loc>
     
     <lastmod>2020-11-18</lastmod>
@@ -16,21 +44,14 @@
   </url>
   
   <url>
-    <loc>https://example.com/2020/11/06/10/</loc>
+    <loc>https://example.com/2020/10/27/6/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://example.com/2020/11/10/11/</loc>
-    
-    <lastmod>2020-11-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/11/14/12/</loc>
+    <loc>https://example.com/2020/10/20/5/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
@@ -39,42 +60,21 @@
   <url>
     <loc>https://example.com/2020/10/18/4/</loc>
     
-    <lastmod>2020-11-07</lastmod>
+    <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
     <loc>https://example.com/2020/10/09/3/</loc>
     
-    <lastmod>2020-11-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/10/06/firstPassage/</loc>
-    
-    <lastmod>2020-11-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/10/20/5/</loc>
-    
-    <lastmod>2020-10-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://example.com/2020/10/27/6/</loc>
-    
-    <lastmod>2020-10-29</lastmod>
+    <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
     <loc>https://example.com/2020/10/07/2/</loc>
     
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-11-18</lastmod>
     
   </url>
   
